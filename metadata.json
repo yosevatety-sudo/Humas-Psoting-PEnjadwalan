@@ -1,0 +1,6 @@
+{
+  "name": "JadwalHumas",
+  "description": "Aplikasi penjadwalan konten optimal media sosial humas berdasarkan analisis rata-rata engagement per jam dan deteksi bentrok jadwal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
